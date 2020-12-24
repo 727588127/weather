@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="向阳天气"/>
+    <version value="1"/>
+    <list/>
+        <mapping class="com.example.weather.db.Province"/>
+        <mapping class="com.example.weather.db.City"/>
+        <mapping class="com.example.weather.db.County"/>
+
+    <list/>
+</litepal>
